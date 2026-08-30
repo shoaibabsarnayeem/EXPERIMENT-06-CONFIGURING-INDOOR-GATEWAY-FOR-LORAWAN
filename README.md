@@ -1,4 +1,11 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+DATE: 29.08.2026
+
+NAME: Shoaib absar nayeem
+
+ROLL NO: 212225040408
+
+DEPARTMENT: CSE
 
 ## Aim: 
 
@@ -119,7 +126,15 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="338" height="375" alt="image" src="https://github.com/user-attachments/assets/ad398d2e-b7c8-4b78-9d43-5b03a9f37375" />
+<img width="601" height="467" alt="Screenshot 2026-08-28 152557" src="https://github.com/user-attachments/assets/8373d7c7-d8e0-4a49-9e6e-32fbfa13dd6d" />
 
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/0d4f403e-d06b-42da-87b9-853adedb8ef9" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-21 163048" src="https://github.com/user-attachments/assets/de71c869-40e1-4b1b-8245-a4b2698b6dff" />
+
+
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/82031294-1555-4824-97da-d28ab074e614" />
+<img width="1837" height="907" alt="image" src="https://github.com/user-attachments/assets/6bff9fa9-0f2b-45c4-bf66-976819e3e912" />
 
 
 
